@@ -1,5 +1,7 @@
 #! /usr/bin/env bash
 
+cp -r ../../data . # Copy the data directory
+
 SRC='../libswamif'
 
 FLAGS='-Wall -pedantic -Warray-bounds -fbacktrace'
