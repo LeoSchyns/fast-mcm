@@ -12,7 +12,7 @@ Requirements:
 
 ### Python wrapper
 Inside the repository:
-* Compile the Fortran binary by running `./src/swami//make_wrapper.sh`
+* Compile the Fortran binary by running `./make_wrapper.sh`
 * Install the python library `pip install .` in a dedicated environment (`python3 -m venv newEnv`, `source newEnv/bin/activate`)
 
 
